@@ -1,7 +1,8 @@
 ![MERN Stack Web Developer and Web Designer.](https://pbs.twimg.com/profile_banners/1287742635382169600/1633705361/1080x360)
 
-### Hi there 👋, I'm SHADEK HOSSAIN
-#### MERN Stack Web Developer and Web Designer.
+                                                              # Hi there 👋, I'm SHADEK HOSSAIN
+                                                              ## MERN Stack Web Developer and Web Designer.
+
 
 
 Welcome to my GitHub profile... 
