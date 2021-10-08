@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SADEK HOSSAIN</h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer.</h3>
 
-
+![Profile views](https://gpvc.arturio.dev/SHadek-007) 
 
 Welcome to my GitHub profile... 
 I am a MERN Stack Developer and Web Designer From Bangladesh.
@@ -38,4 +38,4 @@ Skills: REACT / JS / BOOTSTRAP / CSS / HTML
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SHadek-007)  
 
-![Profile views](https://gpvc.arturio.dev/SHadek-007)  
+ 
